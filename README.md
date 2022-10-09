@@ -2,13 +2,14 @@
 
 # Best Attackers
 
-![](https://github.com/AnandBallure/FIFA-19--Icons/blob/main/best-attackers.pdf)
+![](https://github.com/AnandBallure/FIFA-19--Icons/blob/main/best%20attackers.png)
 
 
 # Best Midfielders
 
-![](https://github.com/AnandBallure/FIFA-19--Icons/blob/main/best-midfielders.pdf)
+![](https://github.com/AnandBallure/FIFA-19--Icons/blob/main/best%20midfielders.png)
+
 
 # Best Defenders
 
-![](https://github.com/AnandBallure/FIFA-19--Icons/blob/main/best-defenders.pdf)
+![](https://github.com/AnandBallure/FIFA-19--Icons/blob/main/best%20defenders.png)
